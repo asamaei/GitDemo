@@ -48,8 +48,7 @@ public class main {
 	}
 
 
-	System.out.println(max);
-	System.out.println(mini);
+
 	}
 }
 	
