@@ -31,7 +31,10 @@ public class main {
 				k = j;
 				
 			}
+			//Boro baba
+			//bia boro
 			
+			System.out.println("Man baladam Git Bazi konam");
 			
 		}
 		
